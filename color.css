@@ -86,17 +86,17 @@
             from 0deg at 50% 51.35%,
             rgba(185, 215, 243, 0) 0deg,
             rgba(185, 215, 243, 0) 289.4deg,
-            #407cff 318deg,
-            #da8bff 1turn,
-            #fb7185 2turn
+            #fcb564 318deg,
+            #ff65f2 1turn,
+            #d66efd 2turn
         ),
         conic-gradient(
             from 180deg at 50% 51.35%,
             rgba(185, 215, 243, 0) 0deg,
             rgba(185, 215, 243, 0) 287.46deg,
-            #407cff 318deg,
-            #da8bff 1turn,
-            #fb7185 2turn
+            #fcb564 318deg,
+            #ff65f2 1turn,
+            #d66efd 2turn
         );
     border-radius: inherit;
 }
